@@ -1,0 +1,17 @@
+{
+  "name": "sock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abdulazeez Abdulazeez Adeshina <laisibizness@gmail.com> (http://twitter.com/kvng_zeez)",
+  "license": "ISC",
+  "dependencies": {
+    "polka": "^0.3.1",
+    "serve-static": "^1.13.1",
+    "socket.io": "^2.0.4"
+  }
+}
